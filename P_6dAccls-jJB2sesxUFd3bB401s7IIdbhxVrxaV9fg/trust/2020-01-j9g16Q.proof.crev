@@ -36,3 +36,20 @@ comment: |-
 nAl4pjoeK9_tNOwrEjNzYHCiZXYAOpZVv64Z3K_YZ-inOCpnt0zy6zFX_4JBZMI01ksakVkQNSlvQ0BFVaUCCA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2020-01-17T17:44:00.066755590-05:00"
+from:
+  id-type: crev
+  id: P_6dAccls-jJB2sesxUFd3bB401s7IIdbhxVrxaV9fg
+  url: "https://github.com/j-browne/crev-proofs"
+ids:
+  - id-type: crev
+    id: aD4K0g6AcSKUDp3VPF7u4hM94zEkqjWeRQwmabLBcV0
+    url: "https://github.com/Mark-Simulacrum/crev-proofs"
+trust: medium
+----- SIGN CREV PROOF -----
+KJAXXa50OloOPwUfH1CqbenZEY2hm4D01m0h53Jvvuxh5OZtNYbMdadwG4TGa9TisRDDzkOHZsLN4YHsok54Dg
+----- END CREV PROOF -----
+
