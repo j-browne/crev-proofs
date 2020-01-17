@@ -17,3 +17,22 @@ comment: |-
 9WzikLMFAzVaJ4kCLwohhQpKwedsu5UJtDIJ6vU8yPS8h5C-WkB9Hb5e_uec7ICKoQaGn9AuLU81UBKSsrsjDw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2020-01-17T17:17:40.791539097-05:00"
+from:
+  id-type: crev
+  id: P_6dAccls-jJB2sesxUFd3bB401s7IIdbhxVrxaV9fg
+  url: "https://github.com/j-browne/crev-proofs"
+ids:
+  - id-type: crev
+    id: VylyTuk8CMGqIxgHixWaqfiUn3xZyzOA1wFrQ0sR1As
+    url: "https://github.com/BurntSushi/crev-proofs"
+trust: medium
+comment: |-
+  competent, trustworthy programmer
+----- SIGN CREV PROOF -----
+nAl4pjoeK9_tNOwrEjNzYHCiZXYAOpZVv64Z3K_YZ-inOCpnt0zy6zFX_4JBZMI01ksakVkQNSlvQ0BFVaUCCA
+----- END CREV PROOF -----
+
